@@ -1,0 +1,25 @@
+{
+  "entity.villager.ambient": {
+    "sounds": [
+      "mob/villager/idle1",
+      "mob/villager/idle2",
+      "mob/villager/idle3",
+      "silence",
+      "silence",
+      "silence",
+      "silence",
+      "silence",
+      "silence",
+      "silence",
+      "silence",
+      "silence",
+      "silence",
+      "silence",
+      "silence",
+      "silence",
+      "silence",
+      "silence"
+    ],
+    "subtitle": "subtitles.entity.villager.ambient"
+  }
+}
